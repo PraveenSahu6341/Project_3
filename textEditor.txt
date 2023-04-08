@@ -1,0 +1,8 @@
+This is the text-editor which is based on Console User Interface(CUI).
+Data structure used in this project is LinkedList,stacks.
+It has various options to choose like insert,append,delete,update,undo,redo etc.
+
+Let's see how it works!!!!
+Choose the options given and run it...
+
+Thank You!!!
